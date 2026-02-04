@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 * 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)** at *Dr. G. Shankar Government Women’s First Grade College, Udupi*
-* 💡 Interested in **Web Development**, **Database Management**, and **Software Engineering**
+* 💡 Interested in **Python Development**, **Database Management**, and **Software Engineering**
 * 🧠 Skilled in **Java**, **Python**, **HTML**, **CSS**, and **SQL**
 * 🛠️ Love designing creative and functional applications
 * 🌱 Constantly learning and exploring new technologies
